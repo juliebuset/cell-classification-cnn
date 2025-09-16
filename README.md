@@ -66,13 +66,6 @@ The dataset contains images labeled into four categories:
 
 ---
 
-## Visual Preview
-
-![Sample White Blood Cells](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
-*Example of preprocessed white blood cell images.*
-
----
-
 ## Future Improvements
 - **Ensemble Learning:** combine RF, VGG16, and CNN predictions
 - **Advanced fine-tuning:** deeper VGG16 layers with lower learning rates
@@ -84,7 +77,7 @@ The dataset contains images labeled into four categories:
 
 1. Clone the repo:  
 ```bash
-git clone <repo_url>
+git clone <https://github.com/juliebuset/cell-classification-cnn.git>
 ```
 
 2. Run the notebook **`white_blood_cell_classification.ipynb`** to:
